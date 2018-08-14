@@ -1,0 +1,7 @@
+C:\Users\Zach1\source\repos\Assignment 6.3\Assignment 6.3\bin\Debug\Assignment 6.3.exe.config
+C:\Users\Zach1\source\repos\Assignment 6.3\Assignment 6.3\bin\Debug\Assignment 6.3.exe
+C:\Users\Zach1\source\repos\Assignment 6.3\Assignment 6.3\bin\Debug\Assignment 6.3.pdb
+C:\Users\Zach1\source\repos\Assignment 6.3\Assignment 6.3\obj\Debug\Assignment 6.3.csprojResolveAssemblyReference.cache
+C:\Users\Zach1\source\repos\Assignment 6.3\Assignment 6.3\obj\Debug\Assignment 6.3.csproj.CoreCompileInputs.cache
+C:\Users\Zach1\source\repos\Assignment 6.3\Assignment 6.3\obj\Debug\Assignment 6.3.exe
+C:\Users\Zach1\source\repos\Assignment 6.3\Assignment 6.3\obj\Debug\Assignment 6.3.pdb
